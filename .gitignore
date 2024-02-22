@@ -1,0 +1,6 @@
+# Ignoriere temporäre Dateien
+*.tmp
+
+# Ignoriere das Verzeichnis "build"
+build/
+ 
